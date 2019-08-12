@@ -85,7 +85,7 @@
             </div>
         </div>
     </footer>
-</div>
+</div>`
 
 <!-- Jquery Core Js -->
 <script src="{{asset('assets/bundles/libscripts.bundle.js')}}"></script>
@@ -106,6 +106,4 @@
     });
 </script>
 </body>
-
-<!-- Mirrored from thememakker.com/templates/oreo/html/light/sign-in.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 08 Apr 2019 18:09:25 GMT -->
 </html>
